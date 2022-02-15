@@ -1,7 +1,7 @@
 {
   "todo": [
-    { "name": "walk the dog", "id": 1 },
-    { "name": "scan project with sonar", "id": 2 },
-    { "name": "todo-app", "id": 3 }
+    { "name": "walk the dog", "id": 1, "done": false },
+    { "name": "scan project with sonar", "id": 2, "done": false },
+    { "name": "todo-app", "id": 3, "done": false }
   ]
 }
